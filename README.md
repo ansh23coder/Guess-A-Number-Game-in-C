@@ -1,1 +1,1 @@
-# -Guess-A-Number-Game-in-C
+# Guess-A-Number-Game-in-C
